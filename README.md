@@ -9,5 +9,7 @@ Visualization Dashboard
 The dashboard displays the forecasted prices for the commodities over the next twelve months and the historical prices for the past twelve months. It includes:
 
 Top Five Winners: Commodities with the highest predicted price increase.
+
 Top Five Losers: Commodities with the highest predicted price decrease.
+
 Individual Commodity Profiles: Detailed forecasts and historical data for each commodity.
